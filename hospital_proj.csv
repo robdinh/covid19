@@ -1,3 +1,4 @@
+states,date,bed_mean,bed_lower,bed_upper,death,total_death
 "California","2020-01-03",0,0,0,0,0
 "California","2020-01-04",0,0,0,0,0
 "California","2020-01-05",0,0,0,0,0
