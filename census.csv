@@ -1,4 +1,4 @@
-﻿fips,state_fips,county_name,state_name,state_abbrev,region,division,sqmi,pop
+﻿fips,state_fips,county_name,state_name,state_code,region,division,sqmi,pop
 1001,1,Autauga,Alabama,AL,South,East South Central,594.444,55869
 1003,1,Baldwin,Alabama,AL,South,East South Central,1589.823,223234
 1005,1,Barbour,Alabama,AL,South,East South Central,885.008,24686
